@@ -390,11 +390,11 @@ C'est ce que doivent se rappeler, âprement et jour après jour, ceux à qui son
 
 *Vassili Grossmann*
 
-# Notes
+## Notes
 
 (1) On a là les premières tentatives d'évaluation du nombre de victimes de Treblinka. Aujourd'hui, on estime plutôt autour de 700.000 le nombre de Juifs exterminés dans ce camp. Une Commission générale d'enquête conclut à 731.600 personnes, Juifs, Polonais et Tziganes assassinées. (Les Crimes allemands en Pologne, Varsovie, 1948). Le chiffre de 700.000 est repris dans un article, L'acte d'accusation du procès de Treblinka (Le Monde Juif, revue du CDJC, juillet 1966). Raul Hilberg parle de 750.000 Juifs et plus de 800.000 victimes, au total.
 
-# Qui était Vassili Grossman ?
+## Qui était Vassili Grossman ?
 
 Vassili Grossman est un écrivain juif soviétique qui a été un court temps une sorte d'écrivain officiel. Son livre sur Tréblinka, écrit après que l'auteur ait participé à la découverte des restes du camp et recueilli des témoignages, a été écrit alors que Grossman était dans l'Armée Rouge et aussitôt publié et traduit du russe en plusieurs langues. J'ai utilisé l'édition de 1945 chez Arthaud. Il est remarquable que les effets de propagande sont relativement limités dans ce livre. Il y a cependant quelques erreurs factuelles (en particulier sur les chiffres des victimes du camp, chiffre énorme dans la réalité mais cependant nettement surestimé par Grossman, voir note de bas de page ajoutée par mes soins).
 
