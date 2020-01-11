@@ -1,0 +1,7 @@
+# NeON Build File (http://github.com/c4s4/neon)
+
+extends: book
+
+properties:
+  TITLE:  "L'enfer de Treblinka"
+  AUTHOR: "Vassili Grossman"
